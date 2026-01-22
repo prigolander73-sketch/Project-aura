@@ -1,9 +1,15 @@
 # Project Aura
 
-A modular development workspace for experimentation, learning, and innovation.
+Name: Lander C. Prigo
+Course: BSIT-Block B
+Year: 2nd Year
+Age: 19
+Status: Complicated
+Gender: Male
+Subject: Adet
 
 ## Description
-Project Aura is designed as a flexible repository for developing, testing, and organizing software projects.
+Personal Information 
 
 ## Author
 prigolander73-sketch
